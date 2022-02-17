@@ -1,0 +1,10 @@
+body{
+    min-block-size: 20%;
+    min-width: 50%;
+}
+
+body h1{
+    font-size: 50px;
+    font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
